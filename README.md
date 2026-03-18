@@ -59,7 +59,7 @@ npm install
 ```
 
 ## 👨‍💻 Desenvolvido por
-Lucas Ferreira Desenvolvedor Front-End com foco em criar interfaces modernas, escaláveis e focadas na melhor experiência do usuário.
+Lucas Ferreira Desenvolvedor Front-End com foco em criar interfaces modernas, escaláveis e focadas na melhor experiência do usuário.                                                                                            
 [Lucas Ferreira](https://lucas.ferreiradev.com/) | [GitHub](https://github.com/LucasFerreiraProgramador) | [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
 ## Licença
