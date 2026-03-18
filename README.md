@@ -49,7 +49,7 @@ Se você deseja clonar e rodar este projeto na sua máquina para fins de estudo:
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/LucasFerreiraProgramador/Landing-Page-Contadora-Lara](https://github.com/LucasFerreiraProgramador/Landing-Page-Contadora-Lara)
+git clone https://github.com/LucasFerreiraProgramador/Landing-Page-Contadora-Lara
 
 # Entre no diretório
 cd Landing-Page-Contadora-Lara
