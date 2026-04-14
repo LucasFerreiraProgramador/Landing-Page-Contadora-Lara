@@ -38,7 +38,7 @@ Diferente de sistemas internos, esta aplicação foi estruturada para ser a "vit
 ---
 
 ## 💻 Como Executar Localmente
-
+ 
 Se você deseja clonar e rodar este projeto na sua máquina para fins de estudo:
 
 ### Pré-requisitos
